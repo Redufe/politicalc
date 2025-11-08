@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <title>Política de Privacidade — Leis Cantadas Bot</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Política de Privacidade do Leis Cantadas Bot (Instagram/Facebook) com n8n.">
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;line-height:1.6;margin:0;padding:0;background:#f8fafc;color:#0f172a}
+    .container{max-width:900px;margin:0 auto;padding:32px}
+    h1{font-size:2rem;margin:0 0 8px}
+    h2{margin-top:28px}
+    header{margin-bottom:24px;padding-bottom:16px;border-bottom:1px solid #e2e8f0}
+    footer{margin-top:32px;padding-top:16px;border-top:1px solid #e2e8f0;font-size:.95rem;color:#334155}
+    a{color:#0ea5e9;text-decoration:none}
+    a:hover{text-decoration:underline}
+    .card{background:#fff;border:1px solid #e2e8f0;border-radius:12px;padding:24px}
+    ul{margin:8px 0 8px 20px}
+    code{background:#e2e8f0;padding:2px 6px;border-radius:6px}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Política de Privacidade</h1>
+      <div>Última atualização: 08/11/2025</div>
+    </header>
+
+    <div class="card">
+      <p>
+        Esta Política de Privacidade descreve como o <strong>Leis Cantadas Bot</strong> (“nós”, “nosso”)
+        coleta e trata dados pessoais quando você interage com nosso aplicativo integrado ao Instagram/Facebook
+        (Meta) e automações no <strong>n8n</strong>.
+      </p>
+
+      <h2>1. Controlador de Dados</h2>
+      <p>
+        <strong>Responsável:</strong> Leis Cantadas<br>
+        <strong>Contato:</strong> <a href="mailto:contato@leiscantadas.com">contato@leiscantadas.com</a><br>
+        <strong>Finalidade do contato:</strong> solicitações sobre privacidade, direitos do titular e dúvidas gerais.
+      </p>
+
+      <h2>2. Dados que podemos coletar</h2>
+      <ul>
+        <li><strong>Dados de perfil público</strong> do Instagram/Facebook (ex.: @usuário, ID público, nome exibido, foto de perfil), conforme permissões concedidas pela Meta.</li>
+        <li><strong>Conteúdo de mensagens</strong> que você nos envia (ex.: DMs, comentários, palavras-chave para automações como “eu quero”).</li>
+        <li><strong>Metadados técnicos</strong> (ex.: carimbos de data/hora, IDs técnicos para processar a automação, logs de erro no n8n).</li>
+        <li><strong>Dados de contato</strong> que você fornece voluntariamente (ex.: e-mail para suporte/entrega).</li>
+      </ul>
+
+      <h2>3. Bases legais e finalidades</h2>
+      <ul>
+        <li><strong>Execução do serviço/Contrato:</strong> responder mensagens, executar automações (ex.: disparos informativos), entregar conteúdos solicitados.</li>
+        <li><strong>Interesse legítimo:</strong> manter segurança operacional, prevenir abuso/spam, melhorar fluxos (análise de logs).</li>
+        <li><strong>Consentimento (quando aplicável):</strong> envio de comunicações opcionais e materiais promocionais.</li>
+      </ul>
+
+      <h2>4. Como usamos os dados</h2>
+      <ul>
+        <li>Operar o bot e fluxos no n8n (ex.: detectar palavra-chave e enviar resposta).</li>
+        <li>Atender solicitações e suporte.</li>
+        <li>Monitorar, depurar e melhorar desempenho/estabilidade (logs mínimos necessários).</li>
+      </ul>
+
+      <h2>5. Compartilhamento</h2>
+      <p>
+        Não vendemos seus dados. Podemos compartilhar estritamente o necessário com:
+      </p>
+      <ul>
+        <li><strong>Meta Platforms</strong> (Facebook/Instagram) para operar integrações e cumprir políticas/termos da Meta.</li>
+        <li><strong>Provedores de infraestrutura</strong> (ex.: hospedagem do n8n/cloud, e-mail SMTP) apenas para executar o serviço.</li>
+        <li><strong>Autoridades</strong> quando exigido por lei.</li>
+      </ul>
+
+      <h2>6. Retenção</h2>
+      <p>
+        Mantemos dados somente pelo tempo necessário para as finalidades descritas e para cumprir obrigações legais.
+        Logs operacionais do n8n são rotacionados periodicamente.
+      </p>
+
+      <h2>7. Seus direitos</h2>
+      <p>
+        Você pode solicitar: acesso, correção, exclusão, portabilidade e restrição de tratamento,
+        conforme a legislação aplicável (ex.: LGPD/GDPR). Envie seu pedido para
+        <a href="mailto:contato@leiscantadas.com">contato@leiscantadas.com</a>.
+      </p>
+
+      <h2>8. Segurança</h2>
+      <p>
+        Aplicamos medidas técnicas e organizacionais razoáveis para proteger os dados.
+        Nenhum sistema é 100% seguro, mas trabalhamos para reduzir riscos de acesso indevido e uso indevido.
+      </p>
+
+      <h2>9. Crianças e adolescentes</h2>
+      <p>
+        Nosso serviço não é direcionado a menores. Caso identifiquemos dados de menores sem consentimento adequado,
+        tomaremos medidas para removê-los.
+      </p>
+
+      <h2>10. Cookies e tecnologias similares</h2>
+      <p>
+        O GitHub Pages pode usar cookies/técnicas de logging em nível de plataforma. Nós, diretamente, não usamos
+        cookies nesta página de política.
+      </p>
+
+      <h2>11. Alterações a esta política</h2>
+      <p>
+        Podemos atualizar esta política periodicamente. A versão mais recente estará sempre disponível nesta página,
+        com a data de atualização no topo.
+      </p>
+
+      <h2>12. Contato</h2>
+      <p>
+        Para dúvidas sobre esta política ou sobre seus dados, fale com a gente em
+        <a href="mailto:contato@leiscantadas.com">contato@leiscantadas.com</a>.
+      </p>
+    </div>
+
+    <footer>
+      © <span id="y"></span> Leis Cantadas — Todos os direitos reservados.
+    </footer>
+  </div>
+  <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+</body>
+</html>
